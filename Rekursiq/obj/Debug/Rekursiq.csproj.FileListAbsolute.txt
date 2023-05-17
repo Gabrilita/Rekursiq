@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\bin\Debug\Rekursiq.exe.config
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\bin\Debug\Rekursiq.exe
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\bin\Debug\Rekursiq.pdb
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\obj\Debug\Rekursiq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\obj\Debug\Rekursiq.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\obj\Debug\Rekursiq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\obj\Debug\Rekursiq.exe
+C:\Users\STUDENTS-1409-1\Desktop\GBT\Rekursiq\obj\Debug\Rekursiq.pdb
